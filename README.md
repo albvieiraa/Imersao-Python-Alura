@@ -1,5 +1,7 @@
 # Imersao-Python-Alura :bar_chart: :snake:
 
+[Resolusão - Desafios](https://drive.google.com/drive/folders/1T1uT0Ejs1bWmoKrqGEqKDLdmALlhMu4z?usp=sharing)
+
 :small_orange_diamond: Desafios da Aula 1 - Análise Exploratória com Google Sheets
   - Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
   - Pegar via Chat GPT as faixas de idade;
